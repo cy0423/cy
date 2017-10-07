@@ -1,0 +1,5 @@
+---
+applications:
+ - name: netcy
+   random-route: false
+   memory: 128M
