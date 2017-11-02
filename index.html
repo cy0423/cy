@@ -153,7 +153,13 @@
                                  
                             </div>
                         </div>
-
+<div class="col-xs-6 col-sm-4 col-md-3">
+                            <div class="input-group margin">
+                                <a target=_blank href="notepad.xml" class="btn btn-block btn-default">Notepad</a>
+                                
+                                  
+                            </div>
+                        </div>
 
    </div>
     <!-- /.box-body -->
@@ -161,7 +167,8 @@
                                 <section id="cat_308" class="low_lay"><span class="page-header"></span></section>
                 <div  class="box box-success  box-solid">
                     <div class="box-header with-border">
-                      <h3 class="box-title">Spacelist</h3>
+                      <h3 class="box-title">Mylist
+					  </h3>
         
                       <div class="box-tools pull-right">
                         <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
@@ -170,16 +177,17 @@
                     <div class="box-body row">
 
 <pre>
-^ForSpace:
-~~~ xinti.cx:  YC:Fast 1G HN
-http://zghnhost2.pxcwl.cc:3312/vhost
-
+Hyper.sh
+5HGFQOwZ5N6tzaE8
+ VISA 4665440239627223  06/20 297
+4490-PROMO-mfy=MYFREEY-Y6N3MA9-20171213
+1578-PROMO-mfy=MYFREEY-UHBZ4KY-20171213
 ~~~ zzidc.cn: 3G#R:1-Yr
 T1:650/##     NOWEB
 FTP: vhost378.cloudvhost.cn
+
 User:webmaster@HA403917  (@=%40)
 Pass:Cy04**      Manage:qu0.cn
-
 
 ~~~ elcloud.cc: php70#400MB
 <1>Singapore#cyxjp#Manage:netcy
@@ -192,13 +200,14 @@ https://server60.nspops.com:2083/cpsess1222790740/frontend/paper_lantern/
 <3>netcymg#USCN2#Manage:cyweb
 http://us06.electroncloud.win:3312/vhost/
 
-~~~ bcsite.cn: 
-<1>m815050win 512MB HK
-https://hk.bcsite.cn:2222
-<1>t1888444wi  512MB JP
-https://jp.bcsite.cn:2222
+~~~ m.2xjidc.cn:
+<1>cymg 100MB 
+http://ns.13hl.pw:2222
+<2>netcyjp:200MB /s7783219:1024MB
+http://jp.mufengnet.cn:3312/vhost
 
-
+<3>s8406890:300MB
+http://ns2.13hl.pw:3312/vhost/
 </pre>
 
 
