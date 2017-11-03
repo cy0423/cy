@@ -1,25 +1,31 @@
 <notepad>
-	<network>
-		<IBM>
-			(Bluemix)--cy342425@gmail.com:Cy,342425
-		</IBM>
+	<Foreign_network>
 		<Hyper.sh>
 			c0423y@126.com:**strong**
 			AK:A8GZK9ZXXB4VUBVVBJD43J6R
 			SK:4q3bOmGlwBqhD6y9pKDj6hA8AQqPDAXfGzxoRkdM
 			Cluster:app-admin:0JnXaHRD3L67YmG8@209.177.92.20 with id_rsa_insecure
-			
 		</Hyper.sh>
-		
-	</network>
+		<Account>
+			codeanywhere.com+google.com---gmail.com:**strong**
+			digitalocean.com---163.com:**strong**
+			freehostia.com---yccy:**strong**
+			wirex.com---gmail.com:**simple**
+			vagex.com---163.com:**simple**
+			ibm.com---gmail.com:Cy,342425
+			github.com---cy0423:**strong**
+			redhat.com---gmail.com:**midstrong**
+		</Account>
+	</Foreign_network>
 	<Creditcard>
 	VISA 4665440239627223  06/20 297
 	</Creditcard>
 	<MyVPS>
+	MSTSC:123.249.83.8:10572
+	VNC:123.249.83.8:10570(yjy2rgam94bp)
+	FTP:123.249.83.8:10571
 	4490-PROMO-mfy=MYFREEY-Y6N3MA9-20171213
 	1578-PROMO-mfy=MYFREEY-UHBZ4KY-20171213
 	</MyVPS>
-
-
 
 </notepad>
