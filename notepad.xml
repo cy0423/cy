@@ -1,36 +1,46 @@
 <notepad>
 	<Foreign_network>
 		<Hyper.sh>
-			c0423y@126.com:**strong**
-			AK:A8GZK9ZXXB4VUBVVBJD43J6R
-			SK:4q3bOmGlwBqhD6y9pKDj6hA8AQqPDAXfGzxoRkdM
-			Cluster:app-admin:0JnXaHRD3L67YmG8@209.177.92.20 with id_rsa_insecure
+			c0423y@126.com:**strong**<LineBreak/>
+			AK:A8GZK9ZXXB4VUBVVBJD43J6R<LineBreak/>
+			SK:4q3bOmGlwBqhD6y9pKDj6hA8AQqPDAXfGzxoRkdM<LineBreak/>
+			Cluster:app-admin:0JnXaHRD3L67YmG8@209.177.92.20 with id_rsa_insecure<LineBreak/>
 		</Hyper.sh>
-		<Account>
-			codeanywhere.com+google.com---gmail.com:**strong**
-			digitalocean.com---163.com:**strong**
-			freehostia.com---cy0423:**simple**
-			wirex.com---gmail.com:**simple**
-			vagex.com---163.com:**simple**
-			ibm.com---gmail.com:Cy,342425
-			github.com---cy0423:**strong**
-			redhat.com---gmail.com:**midstrong**
-			netlify.com---yeah.net:**unknown**
-			000webhost.com---gmail.com:**simple**
-			hostinger.hk---gmail.com(u916209740):**simple**
-			host-ed.net---yeah.net:**simple**
-			freehostingeu.com---gmail.com:**strong**
-		</Account>
 	</Foreign_network>
+	<Account>
+			codeanywhere.com+google.com---gmail.com:**strong**<LineBreak/>
+			digitalocean.com---163.com:**strong**<LineBreak/>
+			freehostia.com---cy0423:**simple**<LineBreak/>
+			wirex.com---gmail.com:**simple**<LineBreak/>
+			vagex.com---163.com:**simple**<LineBreak/>
+			ibm.com---gmail.com:Cy,342425<LineBreak/>
+			github.com---cy0423:**strong**<LineBreak/>
+			redhat.com---gmail.com:**midstrong**<LineBreak/>
+			netlify.com---yeah.net:**unknown**<LineBreak/>
+			000webhost.com---gmail.com:**simple**<LineBreak/>
+			hostinger.hk---gmail.com(u916209740):**simple**<LineBreak/>
+			host-ed.net---yeah.net:**simple**<LineBreak/>
+			freehostingeu.com---gmail.com:**strong**<LineBreak/>
+	</Account>
 	<Creditcard>
-	VISA 4665440239627223  06/20 297
+	VISA 4665440239627223  06/20 297<LineBreak/>
 	</Creditcard>
 	<MyVPS>
-	MSTSC:123.249.83.8:10572
-	VNC:123.249.83.8:10570(ip7enaiy3k9f)
-	FTP:123.249.83.8:10571
-	4490-PROMO-mfy=MYFREEY-Y6N3MA9-20171213
-	1578-PROMO-mfy=MYFREEY-UHBZ4KY-20171213
+		<Myfreeyun.com>
+			MSTSC:123.249.83.8:10572<LineBreak/>
+			VNC:123.249.83.8:10570(ip7enaiy3k9f)<LineBreak/>
+			FTP:123.249.83.8:10571<LineBreak/>
+			4490-PROMO-mfy=MYFREEY-Y6N3MA9-20171213<LineBreak/>
+			1578-PROMO-mfy=MYFREEY-UHBZ4KY-20171213<LineBreak/>
+		</Myfreeyun.com>
+		<codeanywhere.com>
+			SSH: host7.codeanyhost.com:35657<LineBreak/>
+			Web:http://cy-cy342425325271.codeanyapp.com<LineBreak/>
+			SWeb:https://cy-cy342425325271.codeanyapp.com<LineBreak/>
+			Port:http://port-XX.cy-cy342425325271.codeanyapp.com<LineBreak/>
+			
+		</codeanywhere.com>
+		
 	</MyVPS>
 
 </notepad>

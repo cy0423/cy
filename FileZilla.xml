@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.25.2" platform="windows">
+	<Servers>
+		<Folder expanded="1">1-Using<Server>
+				<Host>files.000webhost.com</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>netcy</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>000webhost.com-1G</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>000webhost.com-1G</Server>
+			<Server>
+				<Host>ns.13hl.pw</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>cymg</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>2xjidc.cn-100MB</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>2xjidc.cn-100MB</Server>
+			<Server>
+				<Host>ftp08.host.me0.cn</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>web1901</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>316e.net-300MB</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>316e.net-300MB</Server>
+			<Server>
+				<Host>hk.bcsite.cn</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>m815050win</User>
+				<Pass encoding="base64">Q3kwMDAwMDQyMw==</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>bcsite.cn-512MB-HK</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>bcsite.cn-512MB-HK</Server>
+			<Server>
+				<Host>sf.50288.win</Host>
+				<Port>22</Port>
+				<Protocol>1</Protocol>
+				<Type>0</Type>
+				<User>root</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>DO-VPS-SF</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>DO-VPS-SF</Server>
+			<Server>
+				<Host>sg01.electroncloud.win</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>cyxjp</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>elcloud.cc-400MB-SG</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>elcloud.cc-400MB-SG</Server>
+			<Server>
+				<Host>us06.electroncloud.win</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>netcymg</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>elcloud.cc-400MB-USCN2</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>elcloud.cc-400MB-USCN2</Server>
+			<Server>
+				<Host>server60.nspops.com</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>win</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>elcloud.cc-500MB-US</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>elcloud.cc-500MB-US</Server>
+			<Server>
+				<Host>cy0423.host-ed.me</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>cyhosted</User>
+				<Pass encoding="base64">Q3kwMDAwMDQyMw==</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>host-ed.net</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir>1 0 11 public_html</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>host-ed.net</Server>
+			<Server>
+				<Host>jp.mufengnet.cn</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>netcyjp</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>jp-hf72.top-1G</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>jp-hf72.top-1G</Server>
+			<Server>
+				<Host>vhost378.cloudvhost.cn</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>webmaster@HA403917</User>
+				<Pass encoding="base64">Q3kwNDIz</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>zzidc.cn-3G</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>zzidc.cn-3G</Server>
+			<Server>
+				<Host>31.170.166.12</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>u916209740</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>hostinger.hk-2G</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>hostinger.hk-2G</Server>
+		</Folder>
+		<Folder expanded="1">2-Dropped<Server>
+				<Host>45.62.110.237</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>cy0423</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>h1z1cn.cn-500MB</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>h1z1cn.cn-500MB</Server>
+			<Server>
+				<Host>123.249.13.210</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>cy0423</User>
+				<Pass encoding="base64">Q3kwNDIz</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>idc809.cn</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir>8 0 6 cy0423 7 wwwroot</RemoteDir>
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>idc809.cn</Server>
+			<Server>
+				<Host>43.245.220.223</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>s2197600</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>llrry.cn-120MB</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>llrry.cn-120MB</Server>
+			<Server>
+				<Host>47.52.92.125</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>netcytk</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>vhcloud.club-300MB</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>vhcloud.club-300MB</Server>
+			<Server>
+				<Host>zghnhost2.pxcwl.cc</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>cy0423</User>
+				<Pass encoding="base64">MDAwMDU2</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>xinti.cx-1G</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>xinti.cx-1G</Server>
+		</Folder>
+	</Servers>
+</FileZilla3>
