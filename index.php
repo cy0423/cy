@@ -52,7 +52,7 @@
             <!-- Main content -->
             <div class="content body">
                 <section>
-                      <form id="searcher_form" data-action="https://www.baidu.com/s?word={{w}}&amp;ie=utf-8&amp;tn=77092190_pg" style="margin: 5px 0px;">
+                      <form id="searcher_form" data-action="https://www.baidu.com/s?word={{w}}&amp;ie=utf-8&amp;" style="margin: 5px 0px;">
                             
                             <div class="input-group">
                               <input type="text" id="keyword" name="q" class="form-control" placeholder="Search...">
@@ -139,20 +139,7 @@
                                  
                             </div>
                         </div>
-<div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="input-group margin">
-                                <a target=_blank href="http://cy0423.zghn2.fbxi.pw/jj" class="btn btn-block btn-default">(W)WebDisk</a>
-                                
-                                 
-                            </div>
-                        </div>
-<div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="input-group margin">
-                                <a target=_blank href="http://cy0423.zghn2.fbxi.pw/kod" class="btn btn-block btn-default">(W)FileManager</a>
-                                
-                                 
-                            </div>
-                        </div>
+
 <div class="col-xs-6 col-sm-4 col-md-3">
                             <div class="input-group margin">
                                 <a target=_blank href="notepad.xml" class="btn btn-block btn-default">Notepad</a>
@@ -160,13 +147,7 @@
                                   
                             </div>
                         </div>
-						<div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="input-group margin">
-                                <a target=_blank href="Workbench.zip" class="btn btn-block btn-default">Workbench</a>
-                                
-                                  
-                            </div>
-                        </div>
+
 
    </div>
     <!-- /.box-body -->
@@ -191,29 +172,10 @@ VPS: 123.249.83.8:10572  (VNC:10570:ip7enaiy3k9f.FTP:10571)
 ~~~ zzidc.cn: 3G#R:1-Yr
 T1:650/##     NOWEB
 FTP: vhost378.cloudvhost.cn
-
 User:webmaster@HA403917  (@=%40)
 Pass:Cy04**      Manage:qu0.cn
 
-~~~ elcloud.cc: php70#400MB
-<1>Singapore#cyxjp#Manage:netcy
-T1:250/600
-http://sg01.electroncloud.win:3312/vhost
 
-<2>win#US#Manage:netcy#500MB
-https://server60.nspops.com:2083/cpsess1222790740/frontend/paper_lantern/
-
-<3>netcymg#USCN2#Manage:cyweb
-http://us06.electroncloud.win:3312/vhost/
-
-~~~ m.2xjidc.cn:
-<1>cymg 100MB 
-http://ns.13hl.pw:2222
-<2>netcyjp:200MB /s7783219:1024MB
-http://jp.mufengnet.cn:3312/vhost
-
-<3>s8406890:300MB
-http://ns2.13hl.pw:3312/vhost/
 </pre>
 
 
@@ -251,21 +213,13 @@ http://ns2.13hl.pw:3312/vhost/
 
 <div class="col-xs-6 col-sm-4 col-md-3">
                             <div class="input-group margin">
-                                <a target=_blank href="ftp://cyhosted@ftp.cy0423.host-ed.me/public_html" class="btn btn-block btn-default">(F)host-ed</a>
-
-                                
-                                 
-                            </div>
-                        </div>
-<div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="input-group margin">
                                 <a target=_blank href="https://f5.host-ed.me:2083/cpsess8820324998/frontend/paper_lantern/index.html" class="btn btn-block btn-default">(M)host-ed</a>
 
                                 
                                  
                             </div>
                         </div>
- <div class="col-xs-6 col-sm-4 col-md-3">
+<div class="col-xs-6 col-sm-4 col-md-3">
                             <div class="input-group margin">
                                 <a target=_blank href="ftp://cy0423@007.3vftp.com" class="btn btn-block btn-default">(F)3v</a>
                                 
@@ -297,16 +251,7 @@ http://ns2.13hl.pw:3312/vhost/
                
                             </div>
                         </div>
-           <div class="col-xs-6 col-sm-4 col-md-3">
-                            <div class="input-group margin">
-
-                                <a target=_blank href="http://uzer.me" class="btn btn-block btn-default">uzer.me</a>
-                                
-                                  
-                            </div>
-                        </div>
-  
-  <div class="col-xs-6 col-sm-4 col-md-3">
+<div class="col-xs-6 col-sm-4 col-md-3">
                             <div class="input-group margin">
                                 <a target=_blank href="ftp://cca_20220392@ftp.ccaeo.com" class="btn btn-block btn-default">(F)ccaeo</a>
                                 
