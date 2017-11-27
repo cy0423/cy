@@ -1,0 +1,44 @@
+yum install -y vnc tigervnc tigervnc-server fontforge firefox
+
+vncserver
+
+vi /etc/sysconfig/vncservers
+/*
+VNCSERVERS="1:root 2:river"
+VNCSERVERARGS[1]="-geometry 1024x768 -nolisten tcp"
+VNCSERVERARGS[2]="-geometry 1024x768 -nolisten tcp"
+*/
+
+vi /root/.vnc/xstartup
+/*
+注释下面两行
+#xterm -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &
+#twm &
+然后再添加下面一行
+gnome-session &
+startkde &
+*/
+
+chmod 777 /root/.vnc/xstartup
+
+
+iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 5901 -j ACCEPT
+iptables -A INPUT -m state --state NEW -m tcp -p tcp --dport 5902 -j ACCEPT
+
+service iptables restart
+
+chkconfig vncserver on
+
+vncserver -kill :1
+
+service vncserver restart
+
+yum -y groupinstall "X Window System" "KDE Desktop" Desktop
+/*or*/
+yum -y groupinstall "X Window System" "Desktop Platform" Desktop
+
+yum -y groupinstall "Graphical Administration Tools" "General Purpose Desktop"
+/*Selection*/
+yum -y groupinstall "Office Suite and Productivity"
+yum -y groupinstall "Graphics Creation Tools"
+

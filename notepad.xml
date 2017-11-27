@@ -1,24 +1,29 @@
 <notepad>
+	<FTP>
+		https://dav.jianguoyun.com/dav <LineBreak/>
+		cy0423@ftps4.us.freehostia.com <LineBreak/>
+		netcy@files.000webhost.com <LineBreak/>
+		web1901@ftp08.host.me0.cn <LineBreak/>
+		cy0423@007.3vftp.com <LineBreak/>
+		m815050win@hk.bcsite.cn <LineBreak/>
+		cy0423@hg8.qu0.cn <LineBreak/>
+		s1345953@twmf.llrry.cn <LineBreak/>
+		webmaster%40HA403917@vhost378.cloudvhost.cn <LineBreak/>
+	</FTP>
 	<Mylist>
-		VPS: 123.249.83.8:10572  (VNC:10570:ip7enaiy3k9f.FTP:10571)
-		VISA 4665440239627223  06/20 297
-		4490-PROMO-mfy=MYFREEY-Y6N3MA9-20171213
-		1578-PROMO-mfy=MYFREEY-UHBZ4KY-20171213
-		~~~ zzidc.cn: 3G#R:1-Yr
-		T1:650/##     NOWEB
-		FTP: vhost378.cloudvhost.cn
-		User:webmaster@HA403917  (@=%40)
-		Pass:Cy04**      Manage:qu0.cn
+		VPS: 123.249.83.8:10572  (VNC:10570:ip7enaiy3k9f.FTP:10571)<LineBreak/>
+		VISA 4665440239627223  06/20 297 <LineBreak/>
+		~~~ zzidc.cn: 3G FTP: vhost378.cloudvhost.cn <LineBreak/>
+		User:webmaster@HA403917  (@=%40)<LineBreak/>
+		Pass:Cy04**      Manage:qu0.cn<LineBreak/>
 
 	</Mylist>
-	<Foreign_network>
-		<Hyper.sh>
+	<Hyper.sh>
 			c0423y@126.com:**strong**<LineBreak/>
 			AK:A8GZK9ZXXB4VUBVVBJD43J6R<LineBreak/>
 			SK:4q3bOmGlwBqhD6y9pKDj6hA8AQqPDAXfGzxoRkdM<LineBreak/>
 			Cluster:app-admin:0JnXaHRD3L67YmG8@209.177.92.20 with id_rsa_insecure<LineBreak/>
-		</Hyper.sh>
-	</Foreign_network>
+	</Hyper.sh>
 	<Account>
 			codeanywhere.com+google.com---gmail.com:**strong**<LineBreak/>
 			digitalocean.com---163.com:**strong**<LineBreak/>
@@ -52,7 +57,6 @@
 			Port:http://port-XX.cy-cy342425325271.codeanyapp.com<LineBreak/>
 			
 		</codeanywhere.com>
-		
 	</MyVPS>
 
 </notepad>
