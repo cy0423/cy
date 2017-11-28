@@ -24,6 +24,19 @@
 			SK:4q3bOmGlwBqhD6y9pKDj6hA8AQqPDAXfGzxoRkdM<LineBreak/>
 			Cluster:app-admin:0JnXaHRD3L67YmG8@209.177.92.20 with id_rsa_insecure<LineBreak/>
 	</Hyper.sh>
+	<Openshift>
+		gmail.com---***midstrong**
+		Token:RNQZkg--Y4nacwx8We1qXkyh9oR4qO5KTVN_MOnAkR8
+	</Openshift>
+	<qiniu>
+		yeah.net---***simple***
+		File:ouhzkibpt.bkt.clouddn.com
+		Web:p04f0z0gq.bkt.clouddn.com
+	</qiniu>
+	<tencentcloud>
+		QQ--**special**
+		http://main-1253986854.cossh.myqcloud.com/
+	</tencentcloud>
 	<Account>
 			codeanywhere.com+google.com---gmail.com:**strong**<LineBreak/>
 			digitalocean.com---163.com:**strong**<LineBreak/>
@@ -32,7 +45,6 @@
 			vagex.com---163.com:**simple**<LineBreak/>
 			ibm.com---gmail.com:Cy,342425<LineBreak/>
 			github.com---cy0423:**strong**<LineBreak/>
-			redhat.com---gmail.com:**midstrong**<LineBreak/>
 			netlify.com---yeah.net:**unknown**<LineBreak/>
 			000webhost.com---gmail.com:**simple**<LineBreak/>
 			hostinger.hk---gmail.com(u916209740):**simple**<LineBreak/>
@@ -51,7 +63,7 @@
 			1578-PROMO-mfy=MYFREEY-UHBZ4KY-20171213<LineBreak/>
 		</Myfreeyun.com>
 		<codeanywhere.com>
-			SSH: host7.codeanyhost.com:38503<LineBreak/>
+			SSH: host17.codeanyhost.com:23369<LineBreak/>
 			Web:http://cy-cy342425325271.codeanyapp.com<LineBreak/>
 			SWeb:https://cy-cy342425325271.codeanyapp.com<LineBreak/>
 			Port:http://port-XX.cy-cy342425325271.codeanyapp.com<LineBreak/>
